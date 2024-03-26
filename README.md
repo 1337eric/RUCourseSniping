@@ -7,3 +7,8 @@ Requests a Rutgers API endpoint of open sections, the script simply checks wheth
 
 # notifSniper.py
 Works similarly to simpleSniper.py, however, this one hides in the background of your computer, also takes in multiple inputs, and alerts you via the Windows notification system once a course is open.
+
+# Usage
+pip install -r requirements.txt
+python notifSniper.py
+Once you enter your courses, to show the window again hit ctrl + e, to hide it ctrl + l
